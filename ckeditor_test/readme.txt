@@ -1,1 +1,0 @@
-Test the CKEDITOR SDK with duilib
