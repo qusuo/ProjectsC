@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ckeditor_test", "ckeditor_test\ckeditor_test.vcxproj", "{5A2AF084-DA3D-4CFA-9019-DC2E6AEA6BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2AF084-DA3D-4CFA-9019-DC2E6AEA6BCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A2AF084-DA3D-4CFA-9019-DC2E6AEA6BCB}.Debug|Win32.Build.0 = Debug|Win32
+		{5A2AF084-DA3D-4CFA-9019-DC2E6AEA6BCB}.Release|Win32.ActiveCfg = Release|Win32
+		{5A2AF084-DA3D-4CFA-9019-DC2E6AEA6BCB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
